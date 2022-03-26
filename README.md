@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Guanyu Doo
 - 🙃 I’m interested in front end development, but I’m a java engineer.
-- 🌱 I’m currently learning flutter
+- 🌱 Currently learning flutter
 - 📫 Email im.dugy@foxmail.com
 
 <!---
